@@ -33,7 +33,7 @@ https://media.discordapp.net/attachments/1183627273199423508/1210943845798256680
 ## 使用技術
 開発環境:Androidstudio
 
-クライアントサイド
+クライアントサイド\n
 フロントエンド:XML
 バックエンド:Java
 
