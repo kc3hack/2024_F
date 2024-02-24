@@ -31,9 +31,22 @@ https://media.discordapp.net/attachments/1183627273199423508/1210943845798256680
 
 
 ## 使用技術
+開発環境:Androidstudio
 
-<!-- 使用技術を入力してください -->
+クライアントサイド
+フロントエンド:XML
+バックエンド:Java
 
+サーバーサイド
+使用言語:Python
+データベースとの通信用のAPI作成のためのフレームワーク:DRF
+データベース:PostgreSQL
+
+データベースとAPIをサーバー上にデプロイした
+PaaS:Render
+
+
+            
 
 <!--
 markdownの記法はこちらを参照してください！
