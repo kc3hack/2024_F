@@ -66,15 +66,16 @@
 
 **クライアントサイド**
 - フロントエンド: XML
-- バックエンド: Java
+- バックエンド: Java(17.07)
 
 **サーバーサイド**
-- 使用言語: Python
-- フレームワーク: Django REST Framework (DRF)
+- 使用言語: Python(3.11.7)
+- フレームワーク: Django REST Framework (DRF)(3.13.1)
 - データベース: PostgreSQL
 
 **デプロイ**
 - PaaS: Render
+デプロイしたAPI(DRFで作成したDB通信用)からデータを取得し，クライアントサイドで使用．
 
 
 
