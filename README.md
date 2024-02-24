@@ -31,19 +31,20 @@ https://media.discordapp.net/attachments/1183627273199423508/1210943845798256680
 
 
 ## 使用技術
-開発環境:Androidstudio
+**開発環境:** Android Studio
 
-クライアントサイド\n
-フロントエンド:XML
-バックエンド:Java
+**クライアントサイド**
+- フロントエンド: XML
+- バックエンド: Java
 
-サーバーサイド
-使用言語:Python
-データベースとの通信用のAPI作成のためのフレームワーク:DRF
-データベース:PostgreSQL
+**サーバーサイド**
+- 使用言語: Python
+- フレームワーク: Django REST Framework (DRF)
+- データベース: PostgreSQL
 
-データベースとAPIをサーバー上にデプロイした
-PaaS:Render
+**デプロイ**
+- PaaS: Render
+
 
 
             
