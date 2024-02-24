@@ -23,7 +23,7 @@
 ## 操作説明・デモ動画
 [デモ動画はこちら](https://www.youtube.com/watch?v=_FAA15ARmas)
 <!-- 開発したプロダクトの操作説明について入力してください。また、操作説明デモ動画があれば、埋め込みやリンクを記載してください -->
-
+https://media.discordapp.net/attachments/1183627273199423508/1210943845798256680/Screenshot_2024-02-24-22-33-53-90_2c30e04ce8da973b17a75cfec83824d1.jpg?ex=65ec6657&is=65d9f157&hm=aa4c691f6b54fc66367237f6cfbacd14822a570626e2c379c1fbcc1a9995ad38&=&format=webp&width=295&height=655
 
 ## 注力したポイント
 
