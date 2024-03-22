@@ -231,7 +231,6 @@ public class activity_home extends AppCompatActivity {
                     while (!response.body().get(i).getUse()) {
                         i = i + 1;
                     }
-                    Log.e("UserTitleId2", "" + i);
                     int usertitleid = response.body().get(i).getTitle_id();
                     setTitleName(usertitleid, user_title);
                     decrementPendingAsyncTasks();
